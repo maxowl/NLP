@@ -1,0 +1,1 @@
+C:\Users\maxowl\Desktop\my_own_project\nlp\NLP\NLP\thai\stock.py
